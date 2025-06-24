@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Eu sou o João Neto 👋</h1>
-<h3 align="center">💻 Experiencia em desenvolvimento Back-end com Java e Spring Boot</h3>
+<h1 align="center">Olá! Eu sou João Neto 👋</h1>
+<h3 align="center">💻 Desenvolvedor Back-end com Java e Spring Boot</h3>
 <h3 align="center">🎓 Estudante de Ciência da Computação na UFCG</h3>
 
 ---
