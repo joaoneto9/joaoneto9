@@ -39,7 +39,7 @@
 ### 📊 Estatísticas GitHub
 
 ![João Neto GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoneto9&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lucas-Cunhaa&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Joao-Neto&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ---
 
